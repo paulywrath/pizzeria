@@ -1,0 +1,14 @@
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+header > a {
+  font-size: xx-large;
+  color: green;
+}
