@@ -1,0 +1,15 @@
+body {
+  padding: 0 200px;
+ }
+ 
+ 
+ #logo {
+  margin-bottom: 40px;
+ }
+ 
+ 
+ main > img {
+  height: 400px;
+  display: block;
+  margin: auto;
+ } 
