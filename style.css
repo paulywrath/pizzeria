@@ -1,5 +1,6 @@
 body {
   font-family: 'Roboto Condensed', sans-serif;
+  padding: 0 200px;
 }
 
 header {
@@ -12,3 +13,7 @@ header > a {
   font-size: xx-large;
   color: green;
 }
+
+ #logo {
+  margin-bottom: 40px;
+ } 
