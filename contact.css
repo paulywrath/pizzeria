@@ -5,3 +5,8 @@
 #submit {
   height: 60px;
 }
+
+input::placeholder {
+  border-color: red; /* Why doesn't this work? */
+  background-color: bisque;
+}
